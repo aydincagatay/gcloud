@@ -1,0 +1,108 @@
+C:\Users\Cagi\anaconda3\lib\site-packages\pydub\utils.py:170: RuntimeWarning: Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work
+  warn("Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work", RuntimeWarning)
+C:\Users\Cagi\anaconda3\lib\site-packages\sklearn\base.py:310: UserWarning: Trying to unpickle estimator LabelBinarizer from version 1.0.1 when using version 0.24.2. This might lead to breaking code or invalid results. Use at your own risk.
+  warnings.warn(
+C:\Users\Cagi\anaconda3\lib\site-packages\sklearn\base.py:310: UserWarning: Trying to unpickle estimator MLPClassifier from version 1.0.1 when using version 0.24.2. This might lead to breaking code or invalid results. Use at your own risk.
+  warnings.warn(
+C:\Users\Cagi\anaconda3\lib\site-packages\librosa\core\spectrum.py:222: UserWarning: n_fft=2048 is too small for input signal of length=800
+  warnings.warn(
+C:\Users\Cagi\anaconda3\lib\site-packages\librosa\core\spectrum.py:222: UserWarning: n_fft=2048 is too small for input signal of length=1600
+  warnings.warn(
+C:\Users\Cagi\anaconda3\lib\site-packages\librosa\core\spectrum.py:222: UserWarning: n_fft=2048 is too small for input signal of length=800
+  warnings.warn(
+C:\Users\Cagi\anaconda3\lib\site-packages\librosa\core\spectrum.py:222: UserWarning: n_fft=2048 is too small for input signal of length=1600
+  warnings.warn(
+C:\Users\Cagi\anaconda3\lib\site-packages\librosa\core\spectrum.py:222: UserWarning: n_fft=2048 is too small for input signal of length=800
+  warnings.warn(
+trsample10.0.wav - ['disgust']
+trsample11.2.wav - ['disgust']
+trsample11.5.wav - ['disgust']
+trsample110.1.wav - ['disgust']
+trsample110.4.wav - ['fearful']
+trsample110.5.wav - ['disgust']
+trsample110.7.wav - ['disgust']
+trsample111.3.wav - ['fearful']
+trsample111.6.wav - ['happy']
+trsample111.9.wav - ['disgust']
+trsample113.6.wav - ['fearful']
+trsample113.7.wav - ['disgust']
+trsample114.0.wav - ['disgust']
+trsample114.2.wav - ['happy']
+trsample114.6.wav - ['fearful']
+trsample114.7.wav - ['fearful']
+trsample114.8.wav - ['disgust']
+trsample115.0.wav - ['disgust']
+trsample115.2.wav - ['calm']
+trsample115.4.wav - ['disgust']
+trsample116.9.wav - ['disgust']
+C:\Users\Cagi\anaconda3\lib\site-packages\librosa\core\spectrum.py:222: UserWarning: n_fft=2048 is too small for input signal of length=800
+  warnings.warn(
+C:\Users\Cagi\anaconda3\lib\site-packages\librosa\core\spectrum.py:222: UserWarning: n_fft=2048 is too small for input signal of length=1600
+  warnings.warn(
+C:\Users\Cagi\anaconda3\lib\site-packages\librosa\core\spectrum.py:222: UserWarning: n_fft=2048 is too small for input signal of length=1600
+  warnings.warn(
+C:\Users\Cagi\anaconda3\lib\site-packages\librosa\core\spectrum.py:222: UserWarning: n_fft=2048 is too small for input signal of length=1600
+  warnings.warn(
+C:\Users\Cagi\anaconda3\lib\site-packages\librosa\core\spectrum.py:222: UserWarning: n_fft=2048 is too small for input signal of length=1600
+  warnings.warn(
+C:\Users\Cagi\anaconda3\lib\site-packages\librosa\core\spectrum.py:222: UserWarning: n_fft=2048 is too small for input signal of length=1600
+  warnings.warn(
+C:\Users\Cagi\anaconda3\lib\site-packages\librosa\core\spectrum.py:222: UserWarning: n_fft=2048 is too small for input signal of length=800
+  warnings.warn(
+trsample117.1.wav - ['disgust']
+trsample117.4.wav - ['disgust']
+trsample117.7.wav - ['happy']
+trsample118.2.wav - ['happy']
+trsample118.5.wav - ['disgust']
+trsample12.0.wav - ['disgust']
+trsample12.6.wav - ['disgust']
+trsample120.0.wav - ['disgust']
+trsample120.3.wav - ['disgust']
+trsample120.7.wav - ['disgust']
+trsample121.0.wav - ['disgust']
+trsample121.2.wav - ['fearful']
+trsample121.6.wav - ['disgust']
+trsample121.7.wav - ['disgust']
+trsample122.1.wav - ['disgust']
+trsample123.2.wav - ['disgust']
+trsample123.9.wav - ['happy']
+trsample124.7.wav - ['disgust']
+trsample125.1.wav - ['fearful']
+trsample126.6.wav - ['disgust']
+trsample127.1.wav - ['disgust']
+trsample128.2.wav - ['disgust']
+trsample129.2.wav - ['happy']
+trsample13.6.wav - ['disgust']
+trsample13.8.wav - ['disgust']
+trsample130.5.wav - ['happy']
+trsample131.0.wav - ['disgust']
+trsample131.6.wav - ['disgust']
+trsample132.2.wav - ['disgust']
+trsample132.6.wav - ['disgust']
+trsample136.6.wav - ['disgust']
+trsample136.8.wav - ['disgust']
+trsample137.2.wav - ['disgust']
+trsample137.6.wav - ['happy']
+trsample14.3.wav - ['disgust']
+trsample14.6.wav - ['disgust']
+trsample15.1.wav - ['disgust']
+trsample15.6.wav - ['calm']
+trsample15.8.wav - ['disgust']
+trsample16.8.wav - ['disgust']C:\Users\Cagi\anaconda3\lib\site-packages\librosa\core\spectrum.py:222: UserWarning: n_fft=2048 is too small for input signal of length=1600
+  warnings.warn(
+C:\Users\Cagi\anaconda3\lib\site-packages\librosa\core\spectrum.py:222: UserWarning: n_fft=2048 is too small for input signal of length=1600
+  warnings.warn(
+C:\Users\Cagi\anaconda3\lib\site-packages\librosa\core\spectrum.py:222: UserWarning: n_fft=2048 is too small for input signal of length=1600
+  warnings.warn(
+C:\Users\Cagi\anaconda3\lib\site-packages\librosa\core\spectrum.py:222: UserWarning: n_fft=2048 is too small for input signal of length=800
+  warnings.warn(
+
+trsample17.2.wav - ['disgust']
+trsample17.3.wav - ['happy']
+trsample18.3.wav - ['disgust']
+trsample19.7.wav - ['disgust']
+trsample19.9.wav - ['happy']
+C:\Users\Cagi\anaconda3\lib\site-packages\librosa\core\spectrum.py:222: UserWarning: n_fft=2048 is too small for input signal of length=1600
+  warnings.warn(
+C:\Users\Cagi\anaconda3\lib\site-packages\librosa\core\spectrum.py:222: UserWarning: n_fft=2048 is too small for input signal of length=1600
+  warnings.warn(
